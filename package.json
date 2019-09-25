@@ -1,0 +1,33 @@
+{
+  "name": "fastcanvas-plugin-a3d",
+  "version": "1.0.1",
+  "description": "-",
+  "cordova": {
+    "id": "fastcanvas-plugin-a3d",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agia3d/fastcanvas-plugin-a3d"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "canvas",
+    "fastcanvas"
+  ],
+  "author": "Agia3D",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/agia3d/fastcanvas-plugin-a3d#issues"
+  },
+  "homepage": "https://github.com/agia3d/fastcanvas-plugin-a3d",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    }
+  ]
+}
